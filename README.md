@@ -1,7 +1,8 @@
 # JohnB_GPT3
 Project Name
 
-    Outline a brief description of your project. Live demo here.
+    New Proj to incorporate GPT3 into the use of a generalized Facial Recognition application.
+allowing for much easier use of State-of-the-Art tools for personal use and ( or while) preventing unsaviory 'big-tech' use of the same tools/applicaitons against the unsuspecting geneeral public at-large.
 
 Table of Contents
 
