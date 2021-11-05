@@ -4,6 +4,9 @@ Project Name
     New Proj to incorporate GPT3 into the use of a generalized Facial Recognition application.
 allowing for much easier use of State-of-the-Art tools for personal use and ( or while) preventing unsaviory 'big-tech' use of the same tools/applicaitons against the unsuspecting geneeral public at-large.
 
+This ReadMe iS still under development
+Last changed: 05 Nov-2021 /JAGB - Alias-PoolSide
+
 Table of Contents
 
     General Info
